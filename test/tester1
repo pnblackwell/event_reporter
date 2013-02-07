@@ -1,0 +1,2 @@
+File.open(event_attendees copy1.csv)
+
